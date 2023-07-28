@@ -42,5 +42,4 @@ def new_compañero(cantidad):
     return asistente,profesor
 
 asistente,profesor = new_compañero(5)
-
 print(f"El profesor es : {profesor} y su asistente es  {asistente}")
