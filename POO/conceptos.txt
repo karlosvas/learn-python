@@ -1,0 +1,15 @@
+Duck Typing
+Es un conceptio de lenguajes orientados a objetos, que dice (If it walks like a duck and it quacks like a duck, then it must be a duck), O en Español (Si camina como un pato y habla como un pato, entonces tiene que ser un pato.) esto viene a decir que le dan igual los tipos de los objetos, lo único que le importan son los métodos.
+////////////////////////////////////////
+Enlace dinámico o de typado debil(Python, JavaScript, PHP)
+El tipo puede cambiar, reatrsa a tiempoo de ejecucionMira el tipo de valor no de la variable.
+Enlace estático o de tipado fuerte(C++, Go, Pascal)
+El tipo no puede cambiar, mira el tipo de la variable, a tiempo real, en el caso de C++ podremos utilizar virtual/override para cabiar estas a a dinámico.
+///////////////////////////////////////
+Tipo real
+Se refiere al tipo de dato efectivo que se almacena en memoria y se determian en tiempo de ejecucion. nombre = "hola", en ejecucuion deteermina que es un string.
+
+Tipo declarado
+Es la especificación del tipo de dato que se establece en el código fuente para la variable o función. str nombre = "hola", el programa ya sabe que se va a declarar un string antes de que se declare la variable., se determina en tiempo de comilacion o interpretacion.
+
+Addicional: El "tipo real" puede ser implícito en algunos lenguajes de programación dinámicos, donde las variables pueden cambiar de tipo durante la ejecución, mientras que el "tipo declarado" es generalmente explícito y fijo una vez se declara.

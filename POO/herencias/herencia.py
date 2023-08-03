@@ -6,10 +6,12 @@ class Persona():
     
     def hablar(self):
         print("Estoy funcionando")
-    
+#Podremos crear diferentres clases pasandole como parametro una clase padre.
 class Empleado(Persona):
     def __init__(self, nombre, edad, nacionalidad, trabajo, salario):
         super().__init__(nombre, edad, nacionalidad)
+        #Utilizamos super para referisrnos a el padre de la clase.
+        #Con self accedemos especificamente ael de su clase.
         self.trabajo = trabajo
         self.salario = salario
         
