@@ -1,0 +1,7 @@
+Esto es un archivo de texto para utilizarlo con with en Pyton
+Lo importante es no dejar de hacerse preguntas.
+Nunca pienso en el futuro llega demasiado pronto.
+Nora - 87
+Gino - 100
+Loretto - 67
+Talina - 45
