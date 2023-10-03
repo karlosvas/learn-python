@@ -12,4 +12,7 @@ Curso de PYTHON desde CERO para PRINCIPIANTES [Intermedio] https://youtu.be/TbcE
 Curso freeCodeCamp  
 Proyectos freeCodeCamp https://youtu.be/tWnyBD2src0?si=BXaly0qIb_2j4kOE
 
+Machine learning
+Tu primera red neuronal en Python y Tensorflow https://youtu.be/iX_on3VxZzk?si=TyaUa60IKnTYqweG
+
 Abierto a cualquier issuue.
